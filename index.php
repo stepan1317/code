@@ -20,7 +20,9 @@ class CustomCalendar {
 
   /**
    * CustomCalendar constructor.
-   * @param $date
+   * @param string $date
+   * @param int $month_sum
+   * @param string $start_date
    */
   public function __construct(string $date = '', int $month_sum = 13, string $start_date = '1.01.1990') {
     $this->date = $date;
@@ -122,5 +124,3 @@ class CustomCalendar {
 }
 
 print (new CustomCalendar('17.11.2013'))->day_name();
-
-
