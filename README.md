@@ -1,14 +1,16 @@
-###Installation 
+##Installation
 Just run the following on the command line:
 `composer install`
 
-###Requires 
+##Requires
 
 PHP 7.0.x 
 
-###Test task
+##Test task
 
-Write PHP function, which returns day of standard seven days week of imaginary calendar, assuming we know how often a leap year occurs, how many months it has and how many days it has in each month. Use function to find the day of date 17.11.2013. Definition of calendar:
+Write PHP function, which returns day of standard seven days week of imaginary calendar,
+assuming we know how often a leap year occurs, how many months it has and how many days it has in each month.
+Use function to find the day of date 17.11.2013. Definition of calendar:
 
 each year has 13 months
 each even month has 21 days, each odd month has 22 days
