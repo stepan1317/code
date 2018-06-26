@@ -14,4 +14,4 @@ Definition of calendar:
 - in leap year last month has less one day
 - leap year is each year dividable by five without rest
 - every week has 7 days: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
-- first day of year 1990 was Monday  
+- first day of year 1990 was Monday
